@@ -1,5 +1,3 @@
-## Open Agentic Security
-
 # Mission
 
 To build an open, collaborative community dedicated to securing agentic enterprise applications and accelerating the responsible use of AI in security operations.
