@@ -22,3 +22,9 @@ This community exists to:
 * Encourage collaboration between security practitioners, developers, researchers, and enterprise teams.
 *  Promote interoperability across security tools, AI platforms, models, data sources, and automation frameworks.
 * Reduce duplication of effort by enabling the community to share patterns, connectors, evaluation methods, and lessons learned.
+
+# Projects
+
+| Logo Placeholder | Logo Placeholder |
+| :--- | :--- |
+| Praxen — agent behavior verifier. Compares an AI agent's declared policy against the available evidence; reports where observed behavior diverges from declared intent. | Observra is an open-source observability and telemetry framework designed for AI and agentic systems, providing deep visibility into agent behavior, execution flows, runtime events, and inter-agent communication. |
