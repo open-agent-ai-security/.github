@@ -1,6 +1,6 @@
 ## Open Agentic Security
 
-#Mission
+# Mission
 
 To build an open, collaborative community dedicated to securing agentic enterprise applications and accelerating the responsible use of AI in security operations.
 
@@ -8,13 +8,13 @@ The community brings together security practitioners, AI builders, researchers, 
 
 Our goal is to make it easier for security and SOC teams to adopt agentic technologies with confidence by advancing practical, open, interoperable, and community-driven approaches to AI security.
 
-#Vision
+# Vision
 
 We envision a future where agentic AI systems are secure by design, transparent in operation, and trusted by the people and organizations that depend on them.
 
 As enterprises increasingly adopt AI agents to automate workflows, augment analysts, and extend security platforms, the community will serve as a neutral place to define best practices, share reusable components, identify emerging risks, and build technologies that help defenders move faster without compromising safety, control, or accountability.
 
-#Purpose
+# Purpose
 
 This community exists to:
 
