@@ -25,7 +25,7 @@ This community exists to:
 
 # Projects
 
-| <img src="https://raw.githubusercontent.com/open-agent-ai-security/.github/main/profile/assets/Praxen_Logo-no-bg.png" width="60%">| <img src="https://raw.githubusercontent.com/open-agent-ai-security/.github/main/profile/assets/observra_logo-nobg.png" width="50%">|
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/open-agent-ai-security/.github/main/profile/assets/praxen-lockup-dark-background.png"><img alt="Praxen" src="https://raw.githubusercontent.com/open-agent-ai-security/.github/main/profile/assets/praxen-lockup-light-background.png" width="80%"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/open-agent-ai-security/.github/main/profile/assets/observra-lockup-dark-background.png"><img alt="Observra" src="https://raw.githubusercontent.com/open-agent-ai-security/.github/main/profile/assets/observra-lockup-light-background.png" width="80%"></picture> |
 | :--- | :--- |
 |Praxen — agent behavior verifier. Compares an AI agent's declared policy against the available evidence; reports where observed behavior diverges from declared intent.| Observra is an open-source observability and telemetry framework designed for AI and agentic systems, providing deep visibility into agent behavior, execution flows, runtime events, and inter-agent communication. |
 | [Visit the Repo](https://github.com/open-agent-ai-security/praxen)| _Coming soon_|
